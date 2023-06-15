@@ -13,8 +13,8 @@ I'm Murilo Pontes, a passionate software engineer with a strong background in de
 - DevOps: Jenkins, Terraform, Gitlab, Github
 
 📚 Education:
-- Msc in Computer Engineer: University of Pernambuco, 2010
-- Beng in Computer Engineer: University of Pernambuco, 2018
+- Master's Degree, Computer Engineer: University of Pernambuco, 2010
+- [Bachelor's Degree, Computer Engineer: University of Pernambuco, 2008](https://upe.poli.br/engenharia-da-computacao/)
 
 🌐 Connect with Me:
 Feel free to connect with me on https://www.linkedin.com/in/murilopontes/ to stay updated on my latest projects and professional journey.
