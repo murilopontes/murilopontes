@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub page!
+👋 Welcome to my GitHub page! and [my blog](https://murilopontes.github.io/)
 
 I'm Murilo Pontes, a passionate software engineer with a strong background in developing robust and scalable software solutions. I thrive on solving complex problems and enjoy building efficient and elegant code.
 
