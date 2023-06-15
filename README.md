@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Welcome to my GitHub page!
 
-<!--
-**murilopontes/murilopontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Murilo Pontes, a passionate software engineer with a strong background in developing robust and scalable software solutions. I thrive on solving complex problems and enjoy building efficient and elegant code.
 
-Here are some ideas to get you started:
+💼 Professional Experience:
+- Currently working as a Senior Software Engineer at GBT, where I collaborate with cross-functional teams to develop and maintain high-performance software applications.
+- Previous experience includes working as a Senior Software Engineer at Capegmini/Altran, where I contributed to Automotive and Semiconductor related projects and gained valuable expertise in AUTOSAR among other things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technical Skills:
+- Programming Languages: Rust, Golang, Python, C, C++, C#, Java, 
+- Web Development: React, Angular, JS, HTML, CSS
+- Databases: MySQL, MariaDB, Postgresql, SQL server, MongoBD, InfluxDB
+- DevOps: Jenkins, Terraform, Gitlab, Github
+
+📚 Education:
+- Msc in Computer Engineer: University of Pernambuco, 2010
+- Beng in Computer Engineer: University of Pernambuco, 2018
+
+🌐 Connect with Me:
+Feel free to connect with me on https://www.linkedin.com/in/murilopontes/ to stay updated on my latest projects and professional journey.
+
+I'm always excited about collaborating on interesting projects and exploring new technologies. If you have any questions or suggestions, feel free to reach out. Let's connect and create something awesome together!
+
