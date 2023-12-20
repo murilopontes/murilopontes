@@ -14,8 +14,7 @@ I'm Murilo Pontes, a passionate software engineer with a strong background in de
 
 📚 Education:
 - [Master's Degree, Computer Engineer: University of Pernambuco, 2010](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/en/)
-- [Bachelor's Degree, Computer Engineer: University of Pernambuco, 2008](https://upe.poli.br/engenharia-da-computacao/)
-
+- [Bachelor's Degree, Computer Engineer: University of Pernambuco, 2008](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/en/)
 🌐 Connect with Me:
 Feel free to connect with me on https://www.linkedin.com/in/murilopontes/ to stay updated on my latest projects and professional journey.
 
