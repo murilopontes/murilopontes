@@ -1,5 +1,7 @@
 👋 Welcome to my GitHub page! and [my blog](https://murilopontes.github.io/)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilopontes&show_icons=true&locale=en&theme=transparent" alt="murilopontes" /></p>
+
 I'm Murilo Pontes, a passionate software engineer with a strong background in developing robust and scalable software solutions. I thrive on solving complex problems and enjoy building efficient and elegant code.
 
 💼 Professional Experience:
