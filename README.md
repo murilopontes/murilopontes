@@ -1,9 +1,14 @@
-👋 Welcome to my GitHub page! and [my blog](https://murilopontes.github.io/)
+## Hi there!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilopontes&show_icons=true&locale=en&theme=transparent" alt="murilopontes" /></p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=murilopontes&show_icons=true&locale=en&theme=transparent"
+    alt="murilopontes"
+  />
+</p>
 
-🌐 Connect with Me:
+### 🌐 Connect with Me
+For professional updates and embedded systems projects, connect with me on LinkedIn:
 
-Feel free to connect with me on https://www.linkedin.com/in/murilopontes/ to stay updated on my latest projects and professional journey.
-
-
+**https://www.linkedin.com/in/murilopontes/**
